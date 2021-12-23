@@ -7,6 +7,7 @@
 Current Projects
 
 [QMK nullbits SCRAMBLE 3key](https://github.com/Globx/qmk_firmware/tree/master/keyboards/nullbitsco/scramble/keymaps/3key)
+
 [nullbits SyncData for Nibble65 + Tidbit + TRRS](https://github.com/Globx/qmk_firmware/tree/master/keyboards/nullbitsco)
 This project adds support for syncind RGB mode, enabled, HSV and volume from the Tidbit to the Nibble.  Changes in Common remote_kb.h and .c, as well as using oled2 keymaps for both Nibble 65 and Tidbit.
 
